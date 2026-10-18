@@ -1,1 +1,0 @@
-function M(n,r,a,c=0,t={}){const[h,s]=t.offset??[0,0];return Array.from({length:r},(f,e)=>{const o=e/r*Math.PI*2+c;return{model:n,pos:[h+Math.cos(o)*a,0,s+Math.sin(o)*a],scale:t.scale??1.6,rotY:Math.random()*Math.PI,anchor:t.anchor}})}export{M as r};
