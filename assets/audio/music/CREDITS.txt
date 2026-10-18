@@ -1,0 +1,9 @@
+BGM sources (original files, no edits)
+Dark Shrine Loop - qubodup; original Shrine by yd
+https://opengameart.org/content/dark-shrine-loop
+https://opengameart.org/content/shrine
+Unsolved Investigation - isaiah658
+https://opengameart.org/content/unsolved-investigation
+Both: CC0 1.0 Universal https://creativecommons.org/publicdomain/zero/1.0/
+Hashes and acquisition evidence: provenance.json
+These are initial licensed music selections, not an original commissioned Chinese score.

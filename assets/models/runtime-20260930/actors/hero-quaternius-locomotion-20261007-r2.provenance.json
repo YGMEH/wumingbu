@@ -1,0 +1,22 @@
+{
+  "scope": "Only the added animation motion is Quaternius CC0; this does not relicense the generated character or inherited assets.",
+  "creator": "Quaternius",
+  "authorURL": "https://quaternius.itch.io/universal-animation-library",
+  "checkedDate": "2026-10-07",
+  "license": "CC0-1.0",
+  "localDonorVersion": "2025-06-10 Standard glTF mirror, 53 joints and 46 actual clips; not latest 2026 full edition",
+  "licenseFileSHA256": "f4e7f373b9b996950337e8d41a4a2939c2d90b7725e9baf3d5084a22717ad328",
+  "donorGLTFSHA256": "00c8f17a798c14e6d544a62a6c095036d414e2b485377afdddfb1879bb6402f3",
+  "donorBinarySHA256": "6e65377d81558333c4093dbb144a48fd19019343d82b1a3a7992a98ec0e0543c",
+  "originalHeroSHA256": "cb01a3bb1944bb33cafefbfd6e4187c002367cd7cbb200923e614b448ec2a487",
+  "assetSHA256": "b70203953be9a79d7c8da04d879185cc931495c0be9039c4bff58ee0565f61b2",
+  "clips": {
+    "Locomotion_Q_Idle": "Idle_Loop",
+    "Locomotion_Q_Run": "Sprint_Loop"
+  },
+  "originalNineClipsPreserved": true,
+  "sampleHz": 120,
+  "retargetTool": "Blender 5.2.1 LTS; glTF Transform with EXT_texture_webp",
+  "targetBones": 23,
+  "status": "Experimental integration; no final art or physical-phone acceptance"
+}

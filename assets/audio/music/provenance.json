@@ -1,0 +1,30 @@
+[
+  {
+    "file": "dark-shrine-loop-qubodup-yd.ogg",
+    "title": "Dark Shrine Loop",
+    "author": "qubodup; original Shrine by yd",
+    "source": "https://opengameart.org/content/dark-shrine-loop",
+    "download": "https://opengameart.org/sites/default/files/qubodup-yd-DarkShrineLoop-OpenGameArt.ogg",
+    "license": "CC0-1.0",
+    "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "sha256": "9580618dc851f70c3a11b5ff87672867de44cd38b35dabf926d6befde20e78d0",
+    "bytes": 678630,
+    "acquiredUTC": "2026-10-08T07:20:35.140764+00:00",
+    "modified": false,
+    "audition": "NOT_YET_AUDITIONED"
+  },
+  {
+    "file": "unsolved-investigation-isaiah658.ogg",
+    "title": "Unsolved Investigation",
+    "author": "isaiah658",
+    "source": "https://opengameart.org/content/unsolved-investigation",
+    "download": "https://opengameart.org/sites/default/files/Unsolved-Investigation-isaiah658_0.ogg",
+    "license": "CC0-1.0",
+    "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "sha256": "2877e423ff90cb99b3082840e66cf79d69a809708466c6f27c750c0e1ce2a912",
+    "bytes": 2200350,
+    "acquiredUTC": "2026-10-08T07:20:41.629411+00:00",
+    "modified": false,
+    "audition": "NOT_YET_AUDITIONED"
+  }
+]

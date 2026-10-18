@@ -1,0 +1,32 @@
+[
+  {
+    "source": "D:\\Claudecode项目\\public\\assets\\models\\runtime-20260930\\river-ghost-volume-20261002-v1.glb",
+    "source_sha256": "4f4a33fa1a3ce221a8d8e3697c315b7a25d714370e5c96baebf3eedc44998926",
+    "output": "D:\\Claudecode项目\\public\\assets\\models\\runtime-20261008\\river-ghost-mid-900-r1.glb",
+    "sha256": "2b80833ee6f0b55d6ee9bb658dd6245465b50fd516981eefd305f4934b36f849",
+    "meshes": [
+      {
+        "source_faces": 3500,
+        "output_faces": 900,
+        "uv_layers": 1,
+        "materials": 1
+      }
+    ],
+    "method": "existing generated volume mesh, UV per-loop welding and collapse; original textures retained; no new model purchase"
+  },
+  {
+    "source": "D:\\Claudecode项目\\public\\assets\\models\\runtime-20260930\\river-ghost-volume-20261002-v1.glb",
+    "source_sha256": "4f4a33fa1a3ce221a8d8e3697c315b7a25d714370e5c96baebf3eedc44998926",
+    "output": "D:\\Claudecode项目\\public\\assets\\models\\runtime-20261008\\river-ghost-far-180-r1.glb",
+    "sha256": "94c8816f05b43386440181aa21f57f90cf18047cd6ff75e15d66d0b110abaae5",
+    "meshes": [
+      {
+        "source_faces": 3500,
+        "output_faces": 180,
+        "uv_layers": 1,
+        "materials": 1
+      }
+    ],
+    "method": "existing generated volume mesh, UV per-loop welding and collapse; original textures retained; no new model purchase"
+  }
+]

@@ -1,0 +1,55 @@
+{
+  "source": "public\\assets\\models\\gen\\judge_gate.glb",
+  "source_sha256": "12e657fff9dc43c64209efaeeb538b06ced5756a369745085ddbb42deffe02b6",
+  "method": "single-stage generated judge-gate LOD; weld coincident geometry, preserve per-loop UV before collapse; no procedural shell",
+  "meshes": [
+    {
+      "imported_vertices": 934231,
+      "welded_vertices": 934214,
+      "faces_before": 1869116,
+      "faces_after": 28000,
+      "uv_layers_before": 1,
+      "uv_layers_after": 1,
+      "material_count": 1
+    }
+  ],
+  "texture_derivatives": [
+    {
+      "name": "ancient+temple+gate+3d+model_basecolor.jpg",
+      "source_size": [
+        4096,
+        4096
+      ],
+      "runtime_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "name": "ancient+temple+gate+3d+model_normal.png",
+      "source_size": [
+        4096,
+        4096
+      ],
+      "runtime_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "name": "ancient+temple+gate+3d+model_rm.jpg",
+      "source_size": [
+        4096,
+        4096
+      ],
+      "runtime_size": [
+        1024,
+        1024
+      ]
+    }
+  ],
+  "seconds": 29.1,
+  "candidate_sha256": "5b3a7d0271dc12da842c6bbeb58d1e44284dc225b586440bbfedb1ab23dcb091",
+  "original_runtime_sha256": "0730118c00a7c90de61d1957c26b30683cda68e4f41f140176d9bb62ff46f3ac",
+  "acceptance": "Candidate, requires native in-scene material/occlusion/visual/performance tests"
+}

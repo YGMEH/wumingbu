@@ -1,0 +1,15 @@
+{
+  "author": "Quaternius",
+  "source": "https://quaternius.itch.io/lowpoly-medieval-weapons",
+  "pack": "Medieval Weapons Pack by Quaternius.zip",
+  "license": "CC0 (specific original pack author page)",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "acquiredAt": "2026-10-08T10:40:02.073081+08:00",
+  "paid": false,
+  "zipSha256": "546d6e168d71cc3ea0c5d388a7834658619ac2ace8be960050e5fb1dbd344a2a",
+  "pageEvidence": "D:\\Claudecode\u9879\u76ee\\tmp\\arrow-author-download-20261008-103745-031287\\author-license-page.html",
+  "inputFiles": {
+    "Arrow.mtl": "cee901eef3fabe40154cc3a13ed3d64181aac886767fb1132382667332c6891f",
+    "Arrow.obj": "6960c207e3a8e6f2f09cbfd31b7fe990119cd260ef692729c498738a86698bf1"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "kind": "derivatives of existing user-provided/generated Tripo assets; no new purchase or original overwrite",
+  "original_body": "public/assets/models/gen/bridge_module.glb",
+  "original_rail": "public/assets/models/gen/bridge_rail.glb",
+  "body_proof": "D:\\Claudecode项目\\tmp\\bridge-normal-rebake-20261008-r1\\bridge-body-rail-replacement-r3.clip.json",
+  "rail_lod_proof": "D:\\Claudecode项目\\tmp\\bridge-normal-rebake-20261008-r1\\bridge-rail-detail-6k.lod.json",
+  "outputs": [
+    {
+      "source": "D:\\Claudecode项目\\tmp\\bridge-normal-rebake-20261008-r1\\bridge-body-rail-replacement-r3.glb",
+      "output": "D:\\Claudecode项目\\public\\assets\\models\\runtime-20261008\\bridge_module-separated-rails-r2.glb",
+      "sha256": "a62a86ee85c5dd81994fe15641e3ff934cb43fe1d2b91ee3fff6defd4ae0cb06"
+    },
+    {
+      "source": "D:\\Claudecode项目\\tmp\\bridge-normal-rebake-20261008-r1\\bridge-rail-detail-6k-uv.glb",
+      "output": "D:\\Claudecode项目\\public\\assets\\models\\runtime-20261008\\bridge_rail-detail-6k-r1.glb",
+      "sha256": "0c1b022f5fd3e03f631270f592c8c61f9e078578eb6598ac8198fb32dd766e1a"
+    }
+  ]
+}
